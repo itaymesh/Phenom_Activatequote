@@ -1,3 +1,2 @@
-/media/Data/Software/Magento/Extensions/Phenom/Activatequote/app	app 
-
-
+code                  	 	app/code/local/Activatequote/
+Phenom_Activequote.xml  	app/etc/modules/Phenom_Activatequote.xml
